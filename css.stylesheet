@@ -1,0 +1,13 @@
+body {
+  font-family: Garamond;
+  background-color: black;
+  color: white;
+}
+.sectiontitle {
+  text-decoration-line: underline;
+}
+
+.headshot {
+  
+}
+  
