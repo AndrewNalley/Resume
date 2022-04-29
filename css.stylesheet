@@ -1,13 +1,33 @@
+bhtml {
+  font-size: 10px;
+}
+.name {
+  position: relative;
+  top: 30px;
+}
+}
 body {
+  background-color: AliceBlue;
+}
+.bodytext {
   font-family: Garamond;
-  background-color: black;
-  color: white;
+  position: relative;
+  top: 120px;
+}
+
+.contactinfo {
+  font-style: italic;
 }
 .sectiontitle {
   text-decoration-line: underline;
 }
 
-.headshot {
-  
+  img {
+  position: absolute;
+  left: 35%;
+  top: 1px;
 }
-  
+
+.jobtitle {
+ font-weight: bold;
+}
