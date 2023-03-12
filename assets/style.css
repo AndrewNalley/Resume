@@ -1,0 +1,38 @@
+* {
+  font-size: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  background-color: rgb(227, 238, 248);
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  font-size: large;
+}
+
+img {
+  border: 1px solid;
+  border-radius: 15%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.contactinfo {
+  font-style: italic;
+}
+.sectiontitle {
+  text-decoration-line: underline;
+}
+.jobtitle {
+ font-weight: bold;
+}
